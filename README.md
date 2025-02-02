@@ -1,4 +1,7 @@
-## Hi there 👋
+## HOWDY
+Welcome to my GitHub page! Here I post some of my projects that I feel are interesting, inspiring and/or educational. Have a look!
+
+| <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />           | `https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white`        |
 
 <!--
 **wehttqm/wehttqm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
