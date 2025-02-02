@@ -2,7 +2,7 @@
 Welcome to my GitHub! Here I post some of my projects that I feel are interesting, inspiring and/or educational. Have a look!
 ##
 A little about me
-- I am a second-year computer science specialist at University of Toronto
+- I am a second-year computer science specialist student at University of Toronto
 - I'm just as interested in hardware as I am software
 - I train AI models for DataAnnotation
 - I love motorsport
