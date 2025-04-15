@@ -1,7 +1,7 @@
 # **HOWDY**
 Omg FIRST of all — I hope ur day is going amazin’!!! Like, I hope ur coffee hit just right, your code compiled on the FIRST TRY (a true miracle tbh), & that u maybe saw a cute dog or smth on ur way to work??? 🐶✨
 
-Sooooo hiiii 👋 my name is Matthew Falcone (but like... you can call me Matt if you’re feelin’ casual 🌈 lol) and I’m currently TRYING to survive Computer Science @ University of Toronto 😭💻📚 It’s like, one minute I’m writing a sick full-stack app and the next I’m crying over a semicolon I forgot 2 include somewhere in 200+ lines of code 💀 but ANYWAYS...
+Sooooo hiiii 👋 my name is Matthew Falcone (but like... you can call me Matt if you’re feelin’ casual 🌈 lol) and I’m currently TRYING to survive Computer Science @ University of Toronto 😭💻📚 It’s like, one minute I’m writing a sick full-stack app and the next I’m crying over a semicolon I forgot 2 include somewhere in 200+ lines of code 💀 I also LOVE writing like literally EVERYTHING like a 2007 Myspace post 😆 but ANYWAYS...
 
 A little about me
 - I am a second-year computer science specialist student at University of Toronto
