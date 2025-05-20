@@ -1,13 +1,6 @@
 # **HOWDY**
-Omg FIRST of all — I hope ur day is going amazin’!!! Like, I hope ur coffee hit just right, your code compiled on the FIRST TRY (a true miracle tbh), & that u maybe saw a cute dog or smth on ur way to work??? 🐶✨
 
-Sooooo hiiii 👋 my name is Matthew Falcone (but like... you can call me Matt if you’re feelin’ casual 🌈 lol) and I’m currently TRYING to survive Computer Science @ University of Toronto 😭💻📚 It’s like, one minute I’m writing a sick full-stack app and the next I’m crying over a semicolon I forgot 2 include somewhere in 200+ lines of code 💀 I also LOVE writing like literally EVERYTHING like a 2007 Myspace post 😆 but ANYWAYS...
-
-A little about me
-- I am a second-year computer science specialist student at University of Toronto
-- I'm interested in both software and hardware
-- I train AI models for DataAnnotation
-- I love all things related to motorsport
+Thrid-year CS student at UofT with an interest in both software and hardware. If you know a lot about homomorphic encryption I would love to talk to you. 
   
 ## 🙌 Some languages I love working with 🙌
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
